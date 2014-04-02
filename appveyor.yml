@@ -1,0 +1,5 @@
+#---------------------------------#
+#       build configuration       #
+#---------------------------------#
+build_script:
+   - cmd: build.cmd All
